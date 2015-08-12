@@ -20,7 +20,7 @@ namespace GetGameList
 
         private void Form1_Shown(object sender, EventArgs e)
         {
-            //http://steamcommunity.com/id/hagelt18/games/?xml=1
+            //http://steamcommunity.com/id/yourusername/games/?xml=1
         }
 
         private void btnGo_Click(object sender, EventArgs e)
@@ -32,7 +32,7 @@ namespace GetGameList
 
             string url = textBox1.Text + "/games/?xml=1";
             WebClient wc = new WebClient();
-
+            wc.Encoding = Encoding.UTF8;
             var FinalText = wc.DownloadString(url);
             var UnreadText = FinalText;
             var StartText = "<name>";
