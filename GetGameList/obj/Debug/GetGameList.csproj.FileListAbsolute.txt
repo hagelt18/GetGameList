@@ -1,0 +1,9 @@
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\bin\Debug\GetGameList.exe.config
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\obj\Debug\GetGameList.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\obj\Debug\GetGameList.Form1.resources
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\obj\Debug\GetGameList.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\obj\Debug\GetGameList.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\bin\Debug\GetGameList.exe
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\bin\Debug\GetGameList.pdb
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\obj\Debug\GetGameList.exe
+c:\users\tim\documents\visual studio 2012\Projects\GetGameList\GetGameList\obj\Debug\GetGameList.pdb
